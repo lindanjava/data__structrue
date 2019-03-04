@@ -12,3 +12,4 @@ Linux命令行编译可执行文件
 //-o task1 表明生成的可执行文件名叫 task1, o是output的意思
 //task1.c 是源代码文件
 gcc -o task1 task1.c
+'''
