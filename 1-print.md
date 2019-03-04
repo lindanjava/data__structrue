@@ -7,6 +7,6 @@ Linux命令行编译可执行文件
 当我们写好C语言的源文件时，用gcc编译器编译出可执行文件，命令如下：
 <br>
     //gcc是编译器命令，后面接的是命令行选项
-    //-o task1 表明生成的可执行文件名叫 task1, o是output的意思
-    //task1.c 是源代码文件
-    gcc -o task1 task1.c
+//-o task1 表明生成的可执行文件名叫 task1, o是output的意思
+//task1.c 是源代码文件
+gcc -o task1 task1.c
